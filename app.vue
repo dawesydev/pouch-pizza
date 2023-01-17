@@ -74,6 +74,7 @@ const isHidden = ref(true)
     </nav>
     <Header />
     <Bestsellers />
+    <Footer />
   </div>
 
 </template>

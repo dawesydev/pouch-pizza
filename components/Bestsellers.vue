@@ -17,8 +17,8 @@
             </svg>
           </div>
           <div class="flex flex-col mt-2 space-y-4">
-            <span class="block text-[#3c081b] font-body text-lg capitalize">ullamcorper malesuada proin</span>
-            <span class="text-[#3c081b] font-sans text-lg capitalize">£12.00</span>
+            <span class="block text-[#3c081b] font-body text-md capitalize">ullamcorper malesuada proin</span>
+            <span class="text-[#3c081b] font-sans text-md tracking-wider">£12.00</span>
           </div>
         </div>
         <!--        bestseller-->
@@ -29,8 +29,8 @@
             </svg>
           </div>
           <div class="flex flex-col mt-2 space-y-4">
-            <span class="block text-[#3c081b] font-body text-lg capitalize">in fermentum et</span>
-            <span class="text-[#3c081b] font-sans text-lg capitalize">£12.00</span>
+            <span class="block text-[#3c081b] font-body text-md capitalize">in fermentum et</span>
+            <span class="text-[#3c081b] font-sans text-md tracking-wider">£12.00</span>
           </div>
         </div>
         <!--        bestseller-->
@@ -41,8 +41,8 @@
             </svg>
           </div>
           <div class="flex flex-col mt-2 space-y-4">
-            <span class="block text-[#3c081b] font-body text-lg capitalize">ultrices tincidunt arcu</span>
-            <span class="text-[#3c081b] font-sans text-lg capitalize">£12.00</span>
+            <span class="block text-[#3c081b] font-body text-md capitalize">ultrices tincidunt arcu</span>
+            <span class="text-[#3c081b] font-sans text-md tracking-wider">£12.00</span>
           </div>
         </div>
         <!--        bestseller-->
@@ -53,8 +53,8 @@
             </svg>
           </div>
           <div class="flex flex-col mt-2 space-y-4">
-            <span class="block text-[#3c081b] font-body text-lg capitalize">mus mauris vitae</span>
-            <span class="text-[#3c081b] font-sans text-lg capitalize">£12.00</span>
+            <span class="block text-[#3c081b] font-body text-md capitalize">mus mauris vitae</span>
+            <span class="text-[#3c081b] font-sans text-md tracking-wider">£12.00</span>
           </div>
         </div>
         <!--        bestseller-->
@@ -65,8 +65,8 @@
             </svg>
           </div>
           <div class="flex flex-col mt-2 space-y-4">
-            <span class="block text-[#3c081b] font-body text-lg capitalize">aliquam purus sit</span>
-            <span class="text-[#3c081b] font-sans text-lg capitalize">£12.00</span>
+            <span class="block text-[#3c081b] font-body text-md capitalize">aliquam purus sit</span>
+            <span class="text-[#3c081b] font-sans text-md tracking-wider">£12.00</span>
           </div>
         </div>
         <!--        bestseller-->
@@ -77,8 +77,8 @@
             </svg>
           </div>
           <div class="flex flex-col mt-2 space-y-4">
-            <span class="block text-[#3c081b] font-body text-lg capitalize">placerat orci nulla</span>
-            <span class="text-[#3c081b] font-sans text-lg capitalize">£12.00</span>
+            <span class="block text-[#3c081b] font-body text-md capitalize">placerat orci nulla</span>
+            <span class="text-[#3c081b] font-sans text-md tracking-wider">£12.00</span>
           </div>
         </div>
         <!--        bestseller-->
@@ -89,8 +89,8 @@
             </svg>
           </div>
           <div class="flex flex-col mt-2 space-y-4">
-          <span class="block text-[#3c081b] font-body text-lg capitalize">in massa tempor</span>
-          <span class="text-[#3c081b] font-sans text-lg capitalize">£12.00</span>
+          <span class="block text-[#3c081b] font-body text-md capitalize">in massa tempor</span>
+          <span class="text-[#3c081b] font-sans text-md tracking-wider">£12.00</span>
           </div>
         </div>
         <!--        bestseller-->
@@ -101,8 +101,8 @@
             </svg>
           </div>
           <div class="flex flex-col mt-2 space-y-4">
-            <span class="block text-[#3c081b] font-body text-lg capitalize">massa sed elementum</span>
-            <span class="text-[#3c081b] font-sans text-lg capitalize">£12.00</span>
+            <span class="block text-[#3c081b] font-body text-md capitalize">massa sed elementum</span>
+            <span class="text-[#3c081b] font-sans text-md tracking-wider">£12.00</span>
           </div>
         </div>
       </div>
