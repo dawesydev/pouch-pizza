@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+const defaultTheme = require('tailwindcss/defaultTheme')
 
 module.exports = {
   content: [
@@ -12,6 +13,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
+        'sans': ['Archivo', ...defaultTheme.fontFamily.sans],
         'display': ['Tanker', 'ui-sans-serif', 'system-ui'],
         'body': ['Erode', 'ui-serif', 'system-ui'],
       }
