@@ -6,7 +6,7 @@
   <section class="min-h-fit bg-yellow-50 py-12">
     <div class="max-w-6xl mx-auto">
       <div class="pb-8 lg:ml-0 md:ml-6 ml-3">
-        <h3 class="font-body text-[#3c081b] text-2xl">Get stuck in to our bestsellers &#128293;</h3>
+        <h3 class="font-body text-[#3c081b] text-2xl">Get stuck-in to our bestsellers &#128293;</h3>
       </div>
 
       <!--      bestsellers for large screens-->
