@@ -1,4 +1,4 @@
-@import url("https://api.fontshare.com/v2/css?f[]=tanker@400&f[]=erode@700,300,600,400&f[]=archivo@300,400&display=swap");
+@import url("https://api.fontshare.com/v2/css?f[]=tanker@400&f[]=erode@700,300,500,600,400&f[]=archivo@300,400&display=swap");
 
 @tailwind base;
 @tailwind components;

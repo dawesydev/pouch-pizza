@@ -12,7 +12,12 @@
       </svg>
     </div>
     <div class="flex flex-col my-2">
-      <span class="block text-[#3c081b] font-body text-md capitalize hover:underline hover:underline-offset-2">{{ name }}</span>
+      <span class="flex items-center text-[#3c081b] font-body font-medium text-xl capitalize hover:underline hover:underline-offset-2">
+        {{ name }}
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="ml-2 w-6 h-6">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3" />
+        </svg>
+      </span>
     </div>
   </div>
 </template>

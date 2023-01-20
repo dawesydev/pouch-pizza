@@ -5,12 +5,12 @@
 <template>
   <section class="min-h-fit bg-yellow-50 py-12">
     <div class="max-w-6xl mx-auto">
-      <div class="pb-8">
+      <div class="pb-8 lg:ml-0 md:ml-6 ml-3">
         <h3 class="font-body text-[#3c081b] text-2xl">Get stuck in to our bestsellers &#128293;</h3>
       </div>
 
       <!--      bestsellers for large screens-->
-      <div class="md:visible grid grid-cols-4 grid-rows-2 gap-2">
+      <div class="hidden lg:grid grid-cols-4 grid-rows-2 gap-2">
         <!--        bestseller-->
         <Bestseller name="ullamcorper malesuada proin"
                     price="12.00"
@@ -94,8 +94,8 @@
       </div>
 
       <!--      bestsellers for small screens-->
-      <div class="md:hidden flex overflow-scroll max-w-6xl mx-auto px-4 h-full no-scrollbar">
-        <div class="flex flex-nowrap lg:ml-40 md:ml-20 ml-6 space-x-2">
+      <div class="lg:hidden flex overflow-scroll max-w-6xl mx-auto h-full no-scrollbar">
+        <div class="flex flex-nowrap md:ml-6 ml-3 space-x-2">
           <!--        bestseller-->
           <div class="inline-block">
             <div class="text-[#3c081b] w-64 h-64 grid place-items-center max-w-xs overflow-hidden rounded-2xl shadow-md bg-yellow-50 border-x-2 border-x-[#3c081b] border-t-2 border-t-[#3c081b] border-b-8 border-b-[#3c081b] hover:shadow-xl transition-shadow duration-300 ease-in-out">
