@@ -1,5 +1,7 @@
 <script>
+import BaseSelect from "./BaseSelect";
 export default {
+  components: {BaseSelect},
   data () {
     return {
       categories: [
@@ -30,7 +32,13 @@ export default {
 
 <template>
   <div>
+    <h1>Simple Form</h1>
     <form>
+      <BaseSelect
+        :options="categories"
+        v-model="event.category"
+        label="Select a category"
+      />
       <BaseInput
         v-model="event.title"
         label="Title"

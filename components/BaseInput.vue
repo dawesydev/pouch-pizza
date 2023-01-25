@@ -8,7 +8,7 @@ defineProps({
 </script>
 
 <template>
-  <label>{{ label }}</label>
+  <label class="hidden">{{ label }}</label>
   <input
     v-bind="$attrs"
     :placeholder="label"

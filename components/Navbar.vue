@@ -25,7 +25,7 @@ const isHidden = ref(true)
               <NuxtLink to="/" class="opacity-75 hover:opacity-100 hover:underline hover:underline-offset-4">Order now</NuxtLink>
               <NuxtLink to="/" class="opacity-75 hover:opacity-100 hover:underline hover:underline-offset-4">Meet us</NuxtLink>
               <NuxtLink to="/" class="opacity-75 hover:opacity-100 hover:underline hover:underline-offset-4">Menu</NuxtLink>
-              <NuxtLink to="/" class="opacity-75 hover:opacity-100 hover:underline hover:underline-offset-4">Contact</NuxtLink>
+              <NuxtLink to="/contact" class="opacity-75 hover:opacity-100 hover:underline hover:underline-offset-4">Contact</NuxtLink>
             </div>
           </div>
 
