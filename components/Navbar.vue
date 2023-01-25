@@ -62,7 +62,7 @@ const isHidden = ref(true)
       <NuxtLink to="/" class="block py-2 px-6 text-xl text-[#3c081b] font-body hover:bg-rose-900 hover:bg-opacity-5 rounded-xl">Order now</NuxtLink>
       <NuxtLink to="/" class="block py-2 px-6 text-xl text-[#3c081b] font-body hover:bg-rose-900 hover:bg-opacity-5 rounded-xl">Meet us</NuxtLink>
       <NuxtLink to="/" class="block py-2 px-6 text-xl text-[#3c081b] font-body hover:bg-rose-900 hover:bg-opacity-5 rounded-xl">Menu</NuxtLink>
-      <NuxtLink to="/" class="block py-2 px-6 text-xl text-[#3c081b] font-body hover:bg-rose-900 hover:bg-opacity-5 rounded-xl">Contact</NuxtLink>
+      <NuxtLink to="/contact" class="block py-2 px-6 text-xl text-[#3c081b] font-body hover:bg-rose-900 hover:bg-opacity-5 rounded-xl">Contact</NuxtLink>
     </div>
 
   </nav>

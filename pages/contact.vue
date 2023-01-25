@@ -4,9 +4,7 @@
 
 <template>
   <div>
-    <div>
-      <BaseInput v-model:email="" />
-    </div>
+    <form action=""></form>
   </div>
 </template>
 

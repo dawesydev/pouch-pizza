@@ -1,14 +1,20 @@
 <script setup>
- defineProps(['email'])
- defineEmits(['update:email'])
+
+defineProps({
+  'label': { type: String, default: '' },
+  'modelValue': { type: [String, Number], default: '' }
+  })
+
 </script>
 
 <template>
+  <label>{{ label }}</label>
   <input
-      type="email"
-      :value="email"
-      @input="$emit('update:title', $event.target.value)"
-      placeholder="Email"
+    v-bind="$attrs"
+    :placeholder="label"
+    class="field"
+    :value="modelValue"
+    @input="$emit('update:modelValue', $event.target.value)"
   >
 </template>
 
