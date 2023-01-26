@@ -13,35 +13,35 @@
       <div class="hidden lg:grid grid-cols-4 grid-rows-2 gap-2">
         <!--        bestseller-->
         <Bestseller name="ullamcorper malesuada proin"
-                    price=12
+                    :price="12"
                     />
         <!--        bestseller-->
         <Bestseller name="in fermentum et"
-                    price=12
+                    :price="12"
         />
         <!--        bestseller-->
         <Bestseller name="ultrices tincidunt arcu"
-                    price=12
+                    :price="12"
         />
         <!--        bestseller-->
         <Bestseller name="mus mauris vitae"
-                    price=12
+                    :price="12"
         />
         <!--        bestseller-->
         <Bestseller name="ullamcorper malesuada proin"
-                    price=12
+                    :price="12"
         />
         <!--        bestseller-->
         <Bestseller name="in fermentum et"
-                    price=12
+                    :price="12"
         />
         <!--        bestseller-->
         <Bestseller name="ultrices tincidunt arcu"
-                    price=12
+                    :price="12"
         />
         <!--        bestseller-->
         <Bestseller name="mus mauris vitae"
-                    price=12
+                    :price="12"
         />
       </div>
 
@@ -50,35 +50,35 @@
         <div class="flex flex-nowrap md:ml-6 ml-3 space-x-2">
           <!--        bestseller-->
           <Bestseller name="ullamcorper malesuada proin"
-                      price=12
+                      :price="12"
           />
           <!--        bestseller-->
           <Bestseller name="in fermentum et"
-                      price=12
+                      :price="12"
           />
           <!--        bestseller-->
           <Bestseller name="ultrices tincidunt arcu"
-                      price=12
+                      :price="12"
           />
           <!--        bestseller-->
           <Bestseller name="mus mauris vitae"
-                      price=12
+                      :price="12"
           />
           <!--        bestseller-->
           <Bestseller name="ullamcorper malesuada proin"
-                      price=12
+                      :price="12"
           />
           <!--        bestseller-->
           <Bestseller name="in fermentum et"
-                      price=12
+                      :price="12"
           />
           <!--        bestseller-->
           <Bestseller name="ultrices tincidunt arcu"
-                      price=12
+                      :price="12"
           />
           <!--        bestseller-->
           <Bestseller name="mus mauris vitae"
-                      price=12
+                      :price="12"
           />
         </div>
       </div>
